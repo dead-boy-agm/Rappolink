@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RappoLink
 
 > **Conecta. Comunica. Respeta.**
@@ -117,3 +118,7 @@ Guion sugerido: splash → login (mostrar error de validación) → registro con
 ### Evidencia funcional
 ![Foto equipo](screenshots/11-foto-equipo.png)
 ![Navegación](screenshots/12-navegacion.png)
+=======
+# Rappolink
+Ángel Gerardo Mendez Cervantes y Cristopher Gerardo Villanueva Ramirez
+>>>>>>> 706263b35545b3bef90d9ba095c8cb01cc2a1be9
